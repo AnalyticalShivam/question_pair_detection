@@ -32,6 +32,7 @@ The project primarily consists of the following functionalities:
 5. Evaluation: Assessing the performance of the model using appropriate evaluation metrics.
 6. Accuracy: Accuracy score of the model is 78%
 7. About Model: Model only able to classify english words or senteces and also not regional language in which it's words or sentences is translated in english.
+8. This model only train on 30000 sample out   of 4 lakh corpus 
  
 ## Installation
 
