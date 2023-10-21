@@ -31,7 +31,7 @@ The project primarily consists of the following functionalities:
 4. Prediction: Using the trained model to predict whether a given pair of questions are duplicates or not.
 5. Evaluation: Assessing the performance of the model using appropriate evaluation metrics.
 6. Accuracy: Accuracy score of the model is 78%
-7. About Model: Model only able to classify english words or senteces and also not regional language in which it's words or sentences is translated in english.
+7. About Model: Model only able to classify english senteces and also not regional language in which it's sentences is translated in english.
 8. This model only train on 30000 sample out   of 4 lakh corpus 
  
 ## Installation
