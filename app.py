@@ -18,4 +18,4 @@ try:
         else:
             st.header('Not Duplicate')
 except Exception as e:
-    print('an error occured try another question')
+    st.subheader(e)
